@@ -12,4 +12,4 @@ Please follow the below instructions to run this project in your machine:
 =>npm install
 
 4.Run the app
-npm start/npm run production
+=>npm start/npm run production
